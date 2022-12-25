@@ -1,0 +1,80 @@
+/* Deep dark theme for mochi  
+created by elias
+time:2022-12-25
+Merry Christmas! 
+*/
+
+/* 字体 */
+* {
+  font-family: Amaranth;
+}
+
+/* 侧边栏的颜色 */
+.memo_views_side-bar_elements_side-bar-container {
+  background-color: #000000;
+}
+
+/* 还是侧边栏 */
+.side-bar-container {
+  background-color: #000000;
+}
+
+/* 除了侧边栏以外的整个右边的颜色 */
+.memo_views_frame_frame-container {
+  background-color: #121212;
+}
+
+/* column view 的卡片背景颜色 */
+.memo_views_card_column-view_card-component {
+  background-color: #181818;
+}
+
+/* 鼠标悬停在 column view 的卡片时候的颜色 */
+.memo_views_card_column-view_card-component:hover {
+  background-color: #181818;
+}
+
+/* column view 左边选择列的小卡片颜色 */
+.memo_views_card_column-view_column-row-container {
+  background-color: #181818;
+}
+/* 鼠标悬停在column view 左边选择列时候的小卡片颜色 */
+.memo_views_card_column-view_column-row-container:hover {
+  background-color: #282828;
+}
+
+.memo_views_pages_review_card_card-container {
+  background-color: #181818;
+}
+/* 当鼠标悬停的时候，用伪类 */
+.memo_views_pages_review_card_card-container:hover {
+  background-color: #181818;
+}
+
+/* listview card color */
+.memo_views_card_list-view_card-padding {
+  background-color: #181818;
+}
+
+/* gridview card color */
+.memo_views_card_grid-view_card-padding {
+  background-color: #181818;
+}
+
+/* gridview card 上边边 */
+.memo_views_util_horizontal-flex
+  .memo_views_card_list-view_breadcrumbs-container {
+  background-color: #181818;
+}
+
+/* grideview card 下边边 */
+.memo_views_molecules_card-info_info-section {
+  background-color: #181818;
+}
+
+/* useless */
+.memo_views_card_grid-view_container
+  .cards-grid-container
+  .drag-select-activator {
+  background-color: #181818;
+}
